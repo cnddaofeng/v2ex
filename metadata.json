@@ -1,0 +1,6 @@
+{
+  "name": "V2EX 开源雷达",
+  "description": "实时发现并检索 V2EX 社区最新开源项目、独立开发者作品与 GitHub/Gitee 热门仓库。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
